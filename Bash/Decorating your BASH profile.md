@@ -1,4 +1,4 @@
-## Your default BASH prompt looks bland
+## Your default IBM i BASH prompt looks bland
 Your BASH prompt looks like
 ```shell
 ~bash-5.1$
