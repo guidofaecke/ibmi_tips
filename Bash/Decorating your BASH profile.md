@@ -26,4 +26,8 @@ source .bash_profile
 ```
 
 ### Nothing happened - no change
-In case nothing changed, move the above addition from `.bash_profile` to `.bashrc`
+In case nothing changed, move the above addition from `.bash_profile` to `.bashrc` and repeat
+```shell
+source .bash_profile
+```
+
