@@ -27,7 +27,7 @@ Open a SQL command tool like `STRSQL` or `Run SQL Script` within ACS
 CALL QSYS2.SET_PASE_SHELL_INFO('*CURRENT', '/QOpenSys/pkgs/bin/bash')
 ```
 
-##Option 3 (via regular shell)
+## Option 3 (via regular shell)
 Create a file called `.profile` in your home directory and add the following content
 ```shell
 PATH=/QOpenSys/pkgs/bin:$PATH
