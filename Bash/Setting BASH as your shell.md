@@ -38,5 +38,5 @@ exec bash
 ```
 In case there is no editor readily available, we can quickly echo the above lines into `.profile`
 ```shell
-echo 'PATH=/QOpenSys/pkgs/bin:$PATH\nexport PATH\nTERM=xterm\nexport TERM\nexec bash' > .test
+echo 'PATH=/QOpenSys/pkgs/bin:$PATH\nexport PATH\nTERM=xterm\nexport TERM\nexec bash' >> .profile
 ```
