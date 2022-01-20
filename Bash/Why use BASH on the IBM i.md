@@ -11,7 +11,7 @@ You know you executed yesterday a specific command, but can't remember what it w
 - Keep hitting the arrow-up key until you find it
 
 You are looking for a specific command, but only remember the first 5 letters?
-- Hit CTRL-K and start typing, if the wrong variant of your command shows, hit CTRL-K again until the correct command appears
+- Hit CTRL-R and start typing, if the wrong variant of your command shows, hit CTRL-R again until the correct command appears
 
 Instead of typing the complete script name (e.g. MyAwesomeScriptIWantToExecute.sh)...
 - Start typing only the first letters (e.g. My) and hit the TAB key
